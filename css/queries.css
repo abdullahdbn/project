@@ -1,0 +1,45 @@
+@media screen and (max-width: 1024px){
+    .Blog {
+    padding: 90px 50px;
+    }
+    .Portfolio {
+    padding: 80px 50px;
+    }
+    .my-services {
+    padding: 80px 50px;
+    }
+    .h-p {
+
+    left: 16%;
+}
+    .btn-back{
+        display: block;
+        font-size: 15px;
+        position: absolute;
+        z-index: 20;
+        left: 3%;
+        position: fixed;
+
+    }
+    .big-padding{
+        width: 824px;
+        float: right;
+    }
+    
+    .full-nav2{
+        display: grid;
+        float: left;        
+
+    }
+    .full-nav2 div ul li{
+        display: grid;
+
+    }
+    .full-nav2 div{
+                display: grid;
+    }
+    .full-nav{
+        display: none;}
+    
+}
+    
